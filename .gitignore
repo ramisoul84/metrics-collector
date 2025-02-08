@@ -1,0 +1,11 @@
+bin/
+.vscode/
+.idea/
+*.crt
+*.cert
+*.key
+*.pem
+*.tar
+*.env
+meta.json
+kubeconfig*
